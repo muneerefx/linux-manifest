@@ -1,12 +1,3 @@
+
 # linux-manifest
-
-
-
-
-
-
-
-
-
-
 
